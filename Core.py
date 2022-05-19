@@ -13,4 +13,6 @@ class Core.py
     Methods
     ------
     get(uri, param)
-      Send GET request
+        Send GET request to ESM
+    post(uri, param)
+        Send Get request to ESM
